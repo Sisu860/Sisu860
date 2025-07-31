@@ -1,7 +1,9 @@
 ## Hi there 👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+My name is Sisay, and I'm Codeyourfuture trainee 
+- 🔭 I’m currently working on a TV Show Web App that uses an external API to display and search for shows. check it out [here](https://app.netlify.com/projects/cyf-sisu860-tv/configuration/general)
+- 🌱 I’m currently learning more about JavaScript, API integration, and writing cleaner, modular code.
+- 👯 I’m open to collaborating on frontend projects that involve creative UI and solid logic.
+
 <!--
 **Sisu860/Sisu860** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
