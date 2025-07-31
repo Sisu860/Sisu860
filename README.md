@@ -1,7 +1,7 @@
 ## Hi there 👋
-My name is Sisay, and I'm Codeyourfuture trainee 
+My name is Sisay, a trainee at CodeYourFuture, learning to build real-world web applications from the ground up.
 - 🔭 I’m currently working on a TV Show Web App that uses an external API to display and search for shows. check it out [here](https://app.netlify.com/projects/cyf-sisu860-tv/configuration/general)
-- 🌱 I’m currently learning more about JavaScript, API integration, and writing cleaner, modular code.
+- 🌱 I’m currently learning more about JavaScript, API integration, Python and writing cleaner, modular code.
 - 👯 I’m open to collaborating on frontend projects that involve creative UI and solid logic.
 
 <!--
